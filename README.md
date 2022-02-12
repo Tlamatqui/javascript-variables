@@ -1,2 +1,2 @@
 # javascript-variables
-JavaScript variable practice
+JavaScript Variable Practice
